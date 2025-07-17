@@ -19,5 +19,5 @@ $$🚀 How to Use
 2. Open "cal.html" in any modern web browser.
 3. Use the calculator buttons to perform operations.
 
-$$ 📁 Project Structure
+
 
